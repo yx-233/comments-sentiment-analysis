@@ -1,0 +1,20 @@
+模型类型：bi_lstm+self_attention
+准确率=80
+num_layers =
+
+学习率 = 0.001
+
+embedding_dim =
+
+max_len =
+batch_size = 32
+hidden_size = 200
+head = 1
+max_len=100
+hidden_size = 256
+num_layers = 2
+bidirectirons = True
+dropout = 0.4
+embedding_dim = 300
+attention_probs_dropout_prob = 0.1
+epoch = 20

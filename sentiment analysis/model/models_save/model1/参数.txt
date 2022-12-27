@@ -1,0 +1,20 @@
+模型类型：双lstm2
+准确率=80
+num_layers =
+
+学习率 = 0.001
+
+embedding_dim =
+
+max_len =
+
+hidden_size = 200
+
+bidirectirons = True
+max_len=100
+hidden_size = 300
+num_layers = 3
+bidirectirons = True
+dropout = 0.6
+embedding_dim = 500
+
